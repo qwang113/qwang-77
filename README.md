@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Qi Wang in UCSC, department of statistics
+- 👋 Hi, I’m Qi Wang, a current PhD student in UCSC, department of statistics
 - 👀 I’m interested in biking, swimming and badminton.
 - 🌱 I’m currently interested in Bayesian machine learning methods,
 - 📫 How to reach me: qwang113@ucsc.edu
