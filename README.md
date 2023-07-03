@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Qi Wang, a current PhD student in UCSC, department of statistics
 - 👀 I’m interested in biking, swimming and badminton.
-- 🌱 I’m currently doing researches about Bayesian spatial machine learning methods
+- 🌱 I’m currently doing researches about Bayesian tree and spatial machine learning methods
 - 📫 How to reach me: qwang113@ucsc.edu
 
 <!---
